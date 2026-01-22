@@ -1,3 +1,5 @@
+#Create a list to store and calculate average grades for students
+
 # Organizing student grades
 grades = [85, 92, 78, 90, 88]
 
